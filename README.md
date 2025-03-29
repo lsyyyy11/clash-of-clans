@@ -1,7 +1,7 @@
 # clash-of-clans
 Clash of Clans 部落冲突阵型
 
-[简体中文](https://github.com/lsyyyy11/clash-of-clans/zh_cn/README.md)
+[简体中文](https://github.com/lsyyyy11/clash-of-clans/tree/main/zh_cn)
 
 
 
